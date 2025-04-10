@@ -17,4 +17,4 @@ This is a project work from my web development course, focusing on HTML/CSS layo
 
 ## Live Demo
 
-[Coming soon via GitHub Pages](#)
+https://ahmed-yehya84.github.io/ono-tebe-neda/

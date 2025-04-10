@@ -1,0 +1,24 @@
+/* Reset browser defaults */
+body {
+  min-width: 960px; /* Laptop layout */
+  margin: 0;
+}
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+address {
+  font-style: normal;
+}
+button {
+  background: transparent;
+  border: none;
+}
+img {
+  max-width: 100%;
+}
