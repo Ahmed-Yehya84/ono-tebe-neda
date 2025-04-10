@@ -17,6 +17,17 @@
 @import url(../styles/blocks/header/__address/header__address.css);
 /* cover styles */
 
+@import url(../styles/blocks/cover/cover.css);
+@import url(../styles/blocks/cover/__overlay/cover__overlay.css);
+@import url(../styles/blocks/cover/__title/cover__title.css);
+@import url(../styles/blocks/cover/__title/_aligned-text/cover__title_aligned-text.css);
+@import url(../styles/blocks/cover/__title/_aligned-text_center/cover__title_aligned-text_center.css);
+@import url(../styles/blocks/cover/__title/_aligned-text_right/cover__title_aligned-text_right.css);
+@import url(../styles/blocks/cover/__title/_letter-spacing-extended/cover__title_letter-spacing-extended.css);
+@import url(../styles/blocks/cover/__description/cover__description.css);
+@import url(../styles/blocks/cover/__description-text/cover__description-text.css);
+@import url(../styles/blocks/cover/__bet-button/cover__bet-button.css);
+
 /* lots styles */
 
 /* about styles */
