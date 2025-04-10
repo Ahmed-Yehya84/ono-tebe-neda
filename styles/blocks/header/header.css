@@ -1,0 +1,7 @@
+.header {
+  width: 1052px;
+  margin: 92px 24px 96px 24px;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr; /* Logo centered, menu/address on sides */
+  align-items: center;
+}
