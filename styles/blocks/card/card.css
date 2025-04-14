@@ -1,0 +1,9 @@
+.card {
+  position: relative;
+  width: 334px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 1;
+  height: 563px;
+}

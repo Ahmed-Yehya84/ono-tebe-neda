@@ -18,7 +18,6 @@
 /* cover styles */
 
 @import url(../styles/blocks/cover/cover.css);
-@import url(../styles/blocks/cover/__overlay/cover__overlay.css);
 @import url(../styles/blocks/cover/__title/cover__title.css);
 @import url(../styles/blocks/cover/__title/_aligned-text/cover__title_aligned-text.css);
 @import url(../styles/blocks/cover/__title/_aligned-text_center/cover__title_aligned-text_center.css);
@@ -28,7 +27,26 @@
 @import url(../styles/blocks/cover/__description-text/cover__description-text.css);
 @import url(../styles/blocks/cover/__bet-button/cover__bet-button.css);
 
+/* overlay styles */
+@import url(../styles/blocks/overlay/overlay.css);
 /* lots styles */
+
+@import url(../styles/blocks/lots/lots.css);
+@import url(../styles/blocks/lots/__no-margin/lots__no-margin.css);
+@import url(../styles/blocks/lots/__header/lots__header.css);
+@import url(../styles/blocks/lots/__card-list/lots__card-list.css);
+@import url(../styles/blocks/lots/__card-list-item/lots__card-list-item.css);
+@import url(../styles/blocks/lots/__look-more-link/lots__look-more-link.css);
+
+/* cards style */
+@import url(../styles/blocks/cards/cards.css);
+
+/* card styles */
+@import url(../styles/blocks/card/card.css);
+
+@import url(../styles/blocks/card/__link/card__link.css);
+@import url(../styles/blocks/card/_type/_type_film/card_type_film.css);
+@import url(../styles/blocks/card/_type/_type_book/card_type_book.css);
 
 /* about styles */
 
