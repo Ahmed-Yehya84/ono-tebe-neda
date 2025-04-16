@@ -1,4 +1,7 @@
 .about__logo-image {
+  /* background-image: url(../../../../images/logo-white.svg); */
   width: 148px;
+  /* background-size: cover; */
+  /* background-position: center; */
   margin: 64px 45px 62px 46px;
 }
