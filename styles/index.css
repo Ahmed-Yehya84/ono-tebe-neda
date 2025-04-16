@@ -60,3 +60,5 @@
 @import url(../styles/blocks/about/__paragraph/about__paragraph.css);
 
 /* footer styles */
+@import url(../styles/blocks/footer/footer.css);
+@import url(../styles/blocks/footer/__address/footer__address.css);
