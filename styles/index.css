@@ -51,4 +51,12 @@
 
 /* about styles */
 
+@import url(../styles/blocks/about/about.css);
+@import url(../styles/blocks/about/__column/about__column.css);
+@import url(../styles/blocks/about/__logo/about__logo.css);
+@import url(../styles/blocks/about/__logo-image/about__logo-image.css);
+@import url(../styles/blocks/about/__text/about__text.css);
+@import url(../styles/blocks/about/__paragraph/about__paragraph.css);
+@import url(../styles/blocks/about/__title/about__title.css);
+
 /* footer styles */
