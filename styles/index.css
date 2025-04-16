@@ -47,6 +47,7 @@
 @import url(../styles/blocks/card/__link/card__link.css);
 @import url(../styles/blocks/card/_type/_type_film/card_type_film.css);
 @import url(../styles/blocks/card/_type/_type_book/card_type_book.css);
+@import url(../styles/blocks/card/_type/_picture/card_type_picture.css);
 
 /* about styles */
 
